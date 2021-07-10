@@ -11,5 +11,11 @@
 
     <artifactId>springboot-rabbitmq-start</artifactId>
 
-
+    <dependencies>
+        <!--mall通用模块-->
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
+        </dependency>
+    </dependencies>
 </project>
