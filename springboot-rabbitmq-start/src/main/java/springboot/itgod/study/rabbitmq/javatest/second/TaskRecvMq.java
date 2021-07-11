@@ -5,6 +5,11 @@ import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.DeliverCallback;
 
+/**
+ *
+ *和第一个相比 多了一个ack确认机制
+ * 这个称为工作队列（异步消费）
+ */
 
 public class TaskRecvMq {
     private final static String QUEUE_NAME = "hello";
