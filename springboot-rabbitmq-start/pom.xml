@@ -12,10 +12,11 @@
     <artifactId>springboot-rabbitmq-start</artifactId>
 
     <dependencies>
-        <!--mall通用模块-->
+        <!--amqp客户端-->
         <dependency>
-            <groupId>com.github.pagehelper</groupId>
-            <artifactId>pagehelper</artifactId>
+            <groupId>com.rabbitmq</groupId>
+            <artifactId>amqp-client</artifactId>
+            <version>5.7.3</version>
         </dependency>
     </dependencies>
 </project>

@@ -1,4 +1,4 @@
-package springboot.itgod.study.newthread;
+package springboot.itgod.study.javatest.newthread;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

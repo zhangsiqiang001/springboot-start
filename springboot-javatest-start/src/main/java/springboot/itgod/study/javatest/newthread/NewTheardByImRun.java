@@ -1,4 +1,4 @@
-package springboot.itgod.study.newthread;
+package springboot.itgod.study.javatest.newthread;
 
 public class NewTheardByImRun implements Runnable {
     @Override
