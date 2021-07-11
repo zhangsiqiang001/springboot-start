@@ -1,4 +1,4 @@
-package springboot.itgod.study.rabbitmq.javatest.first;
+package springboot.itgod.study.rabbitmq.javatest.afirst;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
