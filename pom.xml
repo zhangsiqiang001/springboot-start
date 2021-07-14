@@ -11,6 +11,7 @@
     <modules>
         <module>springboot-rabbitmq-start</module>
         <module>springboot-javatest-start</module>
+        <module>springboot-springframework-start</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
