@@ -6,7 +6,8 @@ import springboot.itgod.study.springframework.services.FirstService;
 
 public class SpringBootFrameworkApplication {
     public static void main(String[] args) {
-        ClassPathXmlApplicationContext cc = new ClassPathXmlApplicationContext("classpath:application.xml");
-        System.out.println(cc.getBean(FirstService.class).getSecondService());
+        /*ClassPathXmlApplicationContext cc = new ClassPathXmlApplicationContext("classpath:application.xml");
+        System.out.println(cc.getBean(FirstService.class).getSecondService());*/
+
     }
 }
