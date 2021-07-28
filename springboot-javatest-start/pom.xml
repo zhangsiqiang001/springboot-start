@@ -11,5 +11,12 @@
 
     <artifactId>springboot-javatest-start</artifactId>
 
-
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>3.5.6</version>
+        </dependency>
+    </dependencies>
 </project>
